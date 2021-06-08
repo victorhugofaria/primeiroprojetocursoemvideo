@@ -69,8 +69,8 @@ nav {
 }
 
 nav > a {
-    color: white;
-    padding: 10px;
+    color: var(--cor0);
+    padding: 20px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
